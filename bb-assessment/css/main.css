@@ -147,8 +147,6 @@
         @media (min-width:64em) {
         
          
-   
-
         .page-footer h2 {
             font-size:1.5rem;
         }
@@ -670,7 +668,7 @@ width: .8em;
     
         @media (min-width:64em) {
             .site-search__form {display: none;}
-            .button-see {font-size: 20px;}
+            .button-see {font-size: 10px;}
             .slide__content {
                 position:absolute;
                 top:0; height:100%; right:75px;
